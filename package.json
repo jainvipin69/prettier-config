@@ -1,0 +1,23 @@
+{
+  "name": "@jainvipin69/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "prettier",
+    "prettier-config",
+    "prettierconfig",
+    "insight"
+  ],
+  "author": "Prevoir Solutions Informatiques",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainvipin69/prettier-config.gits"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/prevoirsolutionsinformatiques/prettier-config/issues"
+  },
+  "homepage": "https://bitbucket.org/prevoirsolutionsinformatiques/prettier-config#readme"
+}
